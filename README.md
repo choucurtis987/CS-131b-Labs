@@ -1,5 +1,5 @@
 # schoolLABS
-a repository for all of my "cs131b: python programming" labs
+this is a repository for my "cs131b: python programming" labs
 
 will continue to update as my class assigns more labs
 
